@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084750975000",
+    "project_id": "english-now-db393",
+    "storage_bucket": "english-now-db393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084750975000:android:908c1cd4667f9ddbd1736d",
+        "android_client_info": {
+          "package_name": "br.app.englishnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084750975000-q9soc6tpoar7kketa77so2ehunvilf0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.app.englishnow",
+            "certificate_hash": "dc891c8e8b2284a7908788a23b8e4fe3ea7a45e1"
+          }
+        },
+        {
+          "client_id": "1084750975000-rp1b95i1audpkl4peg52it81440912sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7qDIEjSkASyLXAZptGdj6F2X3ePwM4ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084750975000-rp1b95i1audpkl4peg52it81440912sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
